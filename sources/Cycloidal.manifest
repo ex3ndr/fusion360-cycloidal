@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Steve Korshakov",
+	"description":	{
+		"":	"Generation of cycloidal gear"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
